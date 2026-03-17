@@ -6,7 +6,10 @@
   <i></i>
 </p>
 
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=4000&pause=1500&color=FF6600&center=true&vCenter=true&width=600&lines=Welcome;to+my+GitHub" alt="Typing Lab Intro" />
+</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Biology%20%3E%20Chemestry-FF6600?style=for-the-badge&logo=biology&logoColor=white" alt="Biology > ..mestry"/>
-  <br>
-  </p>
+  This repository serves as a hub for my work in biology, including data processing scripts, analysis notebooks, and collaborative projects.
+</p>
