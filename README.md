@@ -7,11 +7,11 @@
   </p>
 
 <p align="center">
-  <video src="https://github.com/YoanLaforgue/YoanLaforgue/blob/main/imgs/dexter.mp4" controls width="500">
-    Ton navigateur ne supporte pas la vidéo.
-  </video>
+  <img src="https://github.com/YoanLaforgue/YoanLaforgue/blob/main/imgs/dexter.gif"
+       alt="Dexter fast buttons" width="800" />
   <br>
-  <b>Dexter !! 🧪</b>
+  <font color="#FF6600"><b> 🔴🔧<br>
+  <i></i>
 </p>
 
 <p align="center">
