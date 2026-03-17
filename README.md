@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/YoanLaforgue/YoanLaforgue/blob/main/imgs/dexter.gif"
-       alt="Dexter Experience" width="500" />
+       alt="Dexter Experience" width="400" />
   <br>
   <font color="#FF6600"><b> <br>
   <i></i>
